@@ -74,3 +74,4 @@ mv Documents
 　sudo apt install ダウンロードをしたdebファイルのパス
 ②apt listの中から、インストール
 　sudo apt-get install パッケージの名前
+他にも様々。。。
