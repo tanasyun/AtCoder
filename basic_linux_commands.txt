@@ -73,5 +73,4 @@ mv Documents
 ①サイトから、.debファイルをダウンロードして。
 　sudo apt install ダウンロードをしたdebファイルのパス
 ②apt listの中から、インストール
-　sudo apt-get install パッケージ名
-
+　sudo apt-get install パッケージの名前
